@@ -9,3 +9,5 @@ What question will our team investigate?
 
 ### Research Question
 What are we interested in?
+
+## Methods
